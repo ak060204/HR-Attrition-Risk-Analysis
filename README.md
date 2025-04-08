@@ -16,9 +16,11 @@ This data analytics project identifies key drivers of employee attrition in a 1,
   - R&D turnover alone projected at $1.33M/year.  
 
 **Technical Implementation**  
+
 <a href = "https://github.com/ak060204/HR-Attrition-Risk-Analysis/blob/main/HR_Attrition_Analysis_with_Risk_Model.sql">**SQL Analysis**:</a>
   - Developed a risk-scoring model to classify employees into High/Medium/Low risk categories.  
-  - Calculated department-wise attrition rates and demographic trends.  
+  - Calculated department-wise attrition rates and demographic trends.
+
 <a href = "https://github.com/ak060204/HR-Attrition-Risk-Analysis/blob/main/HR_Attrition_Dashboard.pbix">**Power BI Dashboard**:</a>
   - Interactive visualizations of attrition patterns by department, gender, and age.  
   - Risk score distribution charts to prioritize interventions.  
